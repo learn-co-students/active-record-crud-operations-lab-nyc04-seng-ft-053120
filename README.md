@@ -49,24 +49,24 @@ we just created. These tests will take you through:
 
 #### Create
 
-- A movie can be instantiated, given a title, and saved
-- A movie can be instantiated with a hash containing all of its attributes
-- A movie can be created in a block
+<!-- - A movie can be instantiated, given a title, and saved
+- A movie can be instantiated with a hash containing all of its attributes -->
+<!-- - A movie can be created in a block -->
 
 #### Read
 
-- You can return the first item in the table
+<!-- - You can return the first item in the table
 - You can return the last item in the table
-- You can return the number of records in the table
-- You can return a movie from the table based on its attributes
-- You can use a `where` clause to select the appropriate movies and sort them by
-  release date
+- You can return the number of records in the table -->
+<!-- - You can return a movie from the table based on its attributes -->
+<!-- - You can use a `where` clause to select the appropriate movies and sort them by
+  release date -->
 
 #### Update
 
-- Can be found, updated, and saved
-- Can be updated using the `update` method
-- Can update all records at once
+<!-- - Can be found, updated, and saved -->
+<!-- - Can be updated using the `update` method -->
+<!-- - Can update all records at once -->
 
 #### Destroy
 
